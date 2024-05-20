@@ -13,12 +13,12 @@ A reusable modal component for displaying dialogues or contextual messages.
 
 The modal component includes functionalities for opening and closing the modal, and supports custom content such as text, forms, and other elements.
 
-1. src/Modal.js: Contains the Modal component logic.
-2. src/App.js: The main application component that renders the Modal component.
+1. `src/Modal.js`: Contains the Modal component logic.
+2. `src/App.js`: The main application component that renders the Modal component.
 
 ## Demo
 
-https://antoinewtz.github.io/modal-component/
+[Demo Link](https://antoinewtz.github.io/modal-component/)
 
 ## Technologies Used
 
